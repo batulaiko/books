@@ -41,6 +41,14 @@
 - [The Manga Guide to Cryptography ~Idero Hinoki, Masaaki Mitani, and Shinichi Sato](cryptography/The-Manga-Guide-to-Cryptography.pdf)
 - [Understanding Cryptography: A Textbook for Students and Practitioners ~Christof Paar and Jan Pelzl](cryptography/Understanding-Cryptography-by-Christof-Paar.pdf)
 
+## Data Mining
+- [An Introduction to Statictical Learning with Python](data-mining/An-Introduction-to-Statictical-Learning_python.pdf)
+- [The Elements of Statistical Learning 2nd Edition](data-mining/The-Elements-of-Statistical-Learning-2nd-Edition.pdf)
+- [Social Media Mining](data-mining/Social-Media-Mining.pdf)
+- [Mining of Massive Datasets 3rd Edition](data-mining/Mining-of-Massive-Datasets-3rd-Edition.pdf)
+- [The Morgan Kaufmann Series in Data Management Systems and Data Mining - Concepts and Techniques 3rd-Edition](data-mining/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)
+
+
 ## Database Management Systems (DBMS)
 - [Database System Concepts (6e) ~Avi Silberschatz, Henry F. Korth, S. Sudarshan](database-management-systems/Database-System-Concepts-6e.pdf)
 
@@ -110,6 +118,9 @@
 - [Spring 5 Recipes: A Problem-Solution Approach ~Daniel Rubio, Josh Long, and Marten Deinum](java/Spring-5-Recipes-4e.pdf)
 - [Thinking in Java 4e ~Bruce Eckel](java/Thinking-in-Java-4e.pdf)
 
+## LaTeX
+- [A Quick Guide to LaTeX](latex/A%20Quick%20Guide%20To%20LaTeX.pdf)
+
 ## Linear Algebra
 - [Convex Optimization ~Lieven Vandenberghe, Stephen P. Boyd](linear-algebra/convex-optimization-boyd.pdf)
 - [Hilbert Spaces Notes](linear-algebra/hilbert-spaces-notes.pdf)
@@ -126,7 +137,14 @@
 - [Introduction To Pattern Recognition And Machine Learning ~M. Narasimha Murty, V. Susheela Devi](machine-learning/Introduction-to-Pattern-Recognition-and-Machine-Learning.pdf)
 - [Machine Learning: An Algorithmic Perspective ~Stephen Marsland](machine-learning/Machine-Learning-An-Algorithmic-Perspective-2e.pdf)
 - [Neural Networks, 2e ~Simon S. Haykin](machine-learning/Neural-Networks-A-Comprehensive-Foundation-Simon-Haykin.pdf)
-- [The Hundred-Page Machine Learning Book ~Andriy Burkov](machine-learning/The-hundred-page-machine-learning-book.pdf)
+- [The Hundred-Page Machine Learning Book ~Andriy Burkov](machine-learning/The-hundred-page-machine-learning-book.pdf) [Github Repo](https://github.com/aburkov/theLMbook)
+- [CUDA Training Series C++](machine-learning/CUDA%20Training%20Series%20C%2B%2B.pdf)
+- [Introduction To Machine Learning - Stanford MLBOOK](machine-learning/Introduction%20to%20Machine%20Learning%20-%20Standford%20MLBOOK.pdf)
+- [The Big Book of Machine Learning Use Cases](machine-learning/The%20Big%20Book%20of%20Machine%20Learning%20Use%20Case.pdf)
+
+## Math Overview
+- [Stantart Mathematical Tables and Formulae ~ Daniel Zwillinger](math-overview/standard-mathematical-tables-and-formulae.pdf)
+- [Mathematics for Machine Learning ~ Mark Peter Deisenroth](math-overview/Mathematics-for-Machine-Learning.pdf)
 
 ## Mathemtaical Modelling and Simulation
 - [Mathematical Modeling and Simulation: Introduction for Scientists and Engineers ~Kai Velten](mathematical-modelling-simulation/mathematical-modelling-simulation-kai-velten.pdf)
@@ -188,6 +206,8 @@
 - [Python Crash Course: A Hands-On, Project-Based Introduction to Programming ~Eric Matthes](python/python-crash-course.pdf)
 - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython ~Wes McKinney](python/python-for-data-analysis-2e.pdf)
 - [Python in a nutshell ~Alex Martelli](python/python-in-a-nutshell-3e.pdf)
+- [Python 101 - 2nd Edition - 2024.pdf](python/python-101-second-edition-2nbsped_compress.pdf)
+- [How to Think Like a Computer Scientist - Learning with Python 3 Documentation](python/How%20to%20Think%20Like%20a%20Computer%20Scientist%20-%20Learning%20with%20Python%203%20Documentation%20-%203rd%20Edition.pdf)
 
 ## Scala
 - [Programming in Scala ~Bill Venners, Martin Odersky](scala/Programming-in-Scala.pdf)
